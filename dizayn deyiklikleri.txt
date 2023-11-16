@@ -1,0 +1,5 @@
+redmine - 
+PurpleMine dizayn theme-sinda application.css faylinda yerlesirler:
+
+quick-search       background-color: #4ba684;     
+top-menu			background: #224c41;
